@@ -48,7 +48,6 @@
 - **Underlying Stack**: Python, Ollama LLMs, Pytest (21 Test Modules), Self-BLEU, Embedding Cosine Similarity, Action Entropy Metrics, Network Topologies (Ring/Broadcast/Off), Append-Only JSONL Logging, Seaborn.
 - **Active Social Validation Nodes**:
   - LinkedIn SEAM Project Update: [https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC](https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC)
-  - LinkedIn Final Year Project / SEAM Foundation: [https://www.linkedin.com/posts/uzairarif_working-on-our-final-year-project-on-the-activity-7456276678323920896-RK7c](https://www.linkedin.com/posts/uzairarif_working-on-our-final-year-project-on-the-activity-7456276678323920896-RK7c)
   - GitHub Code Repository: [https://github.com/uzairlol/seam](https://github.com/uzairlol/seam)
 
 ---
