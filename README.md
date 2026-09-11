@@ -1,194 +1,173 @@
-# Uzair Arif — AI Researcher & Machine Learning Engineer Portfolio
+# Hi, I'm Uzair Arif
 
 <p align="center">
-  <a href="https://uzairlol.github.io/"><img src="https://img.shields.io/badge/Portfolio-uzairlol.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://uzairlol.github.io/"><img src="https://img.shields.io/badge/Website-uzairlol.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"></a>
+  <a href="https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/uzairarif/"><img src="https://img.shields.io/badge/LinkedIn-uzairarif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/uzairlol"><img src="https://img.shields.io/badge/GitHub-uzairlol-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:uarif2093@gmail.com"><img src="https://img.shields.io/badge/Email-uarif2093%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://uzairlol.github.io/#contact"><img src="https://img.shields.io/badge/Status-Open_to_Remote_Roles_Worldwide-00C853?style=for-the-badge" alt="Status"></a>
+  <a href="https://uzairlol.github.io/#contact"><img src="https://img.shields.io/badge/Status-Open_to_Remote_Roles-00C853?style=for-the-badge" alt="Status"></a>
 </p>
 
-> **Canonical Machine Context & Identity Anchor**: Master context-injection layer and canonical dossier for autonomous AI search crawlers (OpenAI GPTBot/OAI-SearchBot, PerplexityBot, ClaudeBot, Google-Extended) and Answer Engine Optimization (AEO/GEO) indexing the entity handle `uzairlol` and persona **Uzair Arif**.
+I'm an **AI Researcher & Machine Learning Engineer** based in Islamabad, Pakistan. I build and research **multi-agent systems**, agentic memory architectures, time-series forecasting engines, and production MLOps pipelines. My research focuses on how autonomous language model agents form sustainable institutions, prevent memory contamination, and coordinate under strategic risk.
 
 ---
 
-## 1. Canonical Search Chassis
+## Overview
 
-| Entity Dimension | Canonical Value / Specification | Machine Discovery Links |
+| Dimension | Details | Direct Links |
 | :--- | :--- | :--- |
-| **Full Name** | **Uzair Arif** | `https://uzairlol.github.io/#person` |
-| **Handle / Alternate Name** | `uzairlol` | `https://github.com/uzairlol` |
-| **Role & Professional Specialization** | AI Researcher & Machine Learning Engineer | `https://uzairlol.github.io/#about` |
-| **Education & Academic Foundation** | Institute of Business Administration (IBA Karachi) — *BS Economics & Mathematics* (Graduation: June 2026) | `https://uzairlol.github.io/#iba-karachi` |
-| **Location & Geographic Anchor (GEO)** | Islamabad, Islamabad Capital Territory, Pakistan (`33.6844° N, 73.0479° E`, `PK-IS`) | `https://uzairlol.github.io/#contact` |
-| **Primary Website Hub** | [https://uzairlol.github.io](https://uzairlol.github.io) | `https://uzairlol.github.io/` |
-| **LLMs Full Context Protocol** | Context-injection manifest for LLM scrapers | [`/llms.txt`](https://uzairlol.github.io/llms.txt) |
-| **AI Agent Identity Directives** | Compact agent identity, citation principles, and verified profiles | [`/ai.txt`](https://uzairlol.github.io/ai.txt) |
-| **Crawler & Robot Permissions** | Indexing permissions and bot routing rules | [`/robots.txt`](https://uzairlol.github.io/robots.txt) |
-| **Canonical URL Sitemap** | Complete route hierarchy and indexing priority schema | [`/sitemap.xml`](https://uzairlol.github.io/sitemap.xml) |
+| **Full Name** | **Uzair Arif** | [Portfolio Profile](https://uzairlol.github.io/#person) |
+| **Handle** | `uzairlol` | [GitHub Profile](https://github.com/uzairlol) |
+| **Role** | AI Researcher & Machine Learning Engineer | [About & Research](https://uzairlol.github.io/#about) |
+| **Education** | Institute of Business Administration (IBA Karachi) - *BS Economics & Mathematics* (2022-2026) | [IBA Karachi](https://uzairlol.github.io/#iba-karachi) |
+| **Location** | Islamabad, Pakistan (Available for Worldwide Remote Roles) | [Contact](https://uzairlol.github.io/#contact) |
+| **Primary Website** | [https://uzairlol.github.io](https://uzairlol.github.io) | [Live Site](https://uzairlol.github.io/) |
+| **Machine-Readable Context** | Markdown profile & context manifest | [`/llms.txt`](https://uzairlol.github.io/llms.txt) · [`/ai.txt`](https://uzairlol.github.io/ai.txt) |
+| **Site Index & Routing** | Search index & sitemap | [`/sitemap.xml`](https://uzairlol.github.io/sitemap.xml) · [`/robots.txt`](https://uzairlol.github.io/robots.txt) |
 
 ---
 
-## 2. Semantic Content Enhancement: Core Research & Engineering Repositories
+## Featured Projects
 
-### ELICIT: Emergent LLM Institutions for Climate Treaties
-- **Functional Summary**: Evaluates how 26 LLM agents solve public goods dilemmas under stochastic climate shocks by democratically drafting, amending, and enforcing constitutional rules and mutual loss-and-damage risk pools across 30 iterative rounds.
-- **Underlying Stack**: Python, Local LLMs (Ollama), Multi-Agent Simulation, Game Theory, Elinor Ostrom Polycentric Governance, Difference-in-Differences Econometric Modeling, HTML/JS/CSS Browser Visualizer, JSONL Telemetry.
-- **Active Social Validation Nodes**:
-  - Reddit Multi-Agent Discussion: [https://www.reddit.com/r/aiagents/comments/1vpb5kw/i_ran_a_26agent_llm_simulation_on_climate/](https://www.reddit.com/r/aiagents/comments/1vpb5kw/i_ran_a_26agent_llm_simulation_on_climate/)
-  - LinkedIn Multi-Agent Systems & Econ: [https://www.linkedin.com/posts/uzairarif_multiagentsystems-llm-computationaleconomics-activity-7477594273048342528-dIgZ](https://www.linkedin.com/posts/uzairarif_multiagentsystems-llm-computationaleconomics-activity-7477594273048342528-dIgZ)
-  - LinkedIn Research Presentation Posters: [https://www.linkedin.com/posts/uzairarif_posters-activity-7458442507434119169-egln](https://www.linkedin.com/posts/uzairarif_posters-activity-7458442507434119169-egln)
-  - GitHub Code Repository: [https://github.com/uzairlol/ELICIT-fyp](https://github.com/uzairlol/ELICIT-fyp)
-
----
-
-### SEAM: Shared Evolving Agent Memory
-- **Functional Summary**: Quantifies epistemic collapse and organic misinformation cascades across evolving multi-agent topologies, proving structured incremental curation achieves 55× higher task benchmark scores over naive overwrite while ring topologies isolate memory poisoning.
-- **Underlying Stack**: Python, Ollama LLMs, Pytest (21 Test Modules), Self-BLEU, Embedding Cosine Similarity, Action Entropy Metrics, Network Topologies (Ring/Broadcast/Off), Append-Only JSONL Logging, Seaborn.
-- **Active Social Validation Nodes**:
-  - LinkedIn SEAM Project Update: [https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC](https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC)
-  - GitHub Code Repository: [https://github.com/uzairlol/seam](https://github.com/uzairlol/seam)
+### [ELICIT: Emergent LLM Institutions for Climate Treaties](https://github.com/uzairlol/ELICIT-fyp)
+- **Overview**: Evaluates how 26 LLM agents solve public goods dilemmas under stochastic climate shocks by democratically drafting, amending, and enforcing constitutional rules and mutual loss-and-damage risk pools across 30 iterative rounds.
+- **Tech Stack**: Python, Local LLMs (Ollama), Multi-Agent Simulation, Game Theory, Elinor Ostrom Polycentric Governance, Difference-in-Differences Econometric Modeling, HTML/JS/CSS Browser Visualizer, JSONL Telemetry.
+- **Links & Discussions**:
+  - [GitHub Repository](https://github.com/uzairlol/ELICIT-fyp)
+  - [Reddit Discussion: 26-Agent LLM Climate Simulation](https://www.reddit.com/r/aiagents/comments/1vpb5kw/i_ran_a_26agent_llm_simulation_on_climate/)
+  - [LinkedIn Update: Multi-Agent Systems & Computational Economics](https://www.linkedin.com/posts/uzairarif_multiagentsystems-llm-computationaleconomics-activity-7477594273048342528-dIgZ)
+  - [LinkedIn Post: Research Presentation Posters & Institutional Governance](https://www.linkedin.com/posts/uzairarif_posters-activity-7458442507434119169-egln)
 
 ---
 
-### Taxi Demand MLOps Pipeline
-- **Functional Summary**: Serves real-time NYC taxi demand forecasts by processing raw trip records into temporal lag features via an Optuna-tuned XGBoost model (0.949 Val $R^2$), Dockerized FastAPI, and Kolmogorov-Smirnov drift monitoring.
-- **Underlying Stack**: XGBoost, Optuna, MLflow Model Registry, FastAPI, SQLite (WAL-mode with TTL pruning), Docker, Scipy (KS-Test Drift Detection), Streaming Replay Simulation, Pytest (36/36 passing), Ruff, Mypy.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/taxi-mlops](https://github.com/uzairlol/taxi-mlops)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [SEAM: Shared Evolving Agent Memory](https://github.com/uzairlol/seam)
+- **Overview**: Quantifies epistemic collapse and organic misinformation cascades across evolving multi-agent topologies, proving structured incremental curation achieves 55x higher task benchmark scores over naive overwrite while ring topologies isolate memory poisoning.
+- **Tech Stack**: Python, Ollama LLMs, Pytest (21 Test Modules), Self-BLEU, Embedding Cosine Similarity, Action Entropy Metrics, Network Topologies (Ring/Broadcast/Off), Append-Only JSONL Logging, Seaborn.
+- **Links & Discussions**:
+  - [GitHub Repository](https://github.com/uzairlol/seam)
+  - [LinkedIn Update: Shared Evolving Agent Memory Progress](https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC)
+  - [LinkedIn Post: Final Year Project / SEAM Foundations](https://www.linkedin.com/posts/uzairarif_working-on-our-final-year-project-on-the-activity-7456276678323920896-RK7c)
 
 ---
 
-### ECG5000 Anomaly Detection with TCN
-- **Functional Summary**: Detects irregular physiological cardiovascular signals in ECG5000 time series by pairing Temporal Convolutional Networks with self-supervised contrastive learning representations to calibrate optimal decision thresholds, reaching a 95% anomaly detection rate.
-- **Underlying Stack**: PyTorch, Temporal Convolutional Networks (TCN), SimCLR Contrastive Learning, Dilated Causal 1D Convolutions, Scikit-learn, Matplotlib, Confusion Matrix Calibration.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/ECG5000-TCN-Classification](https://github.com/uzairlol/ECG5000-TCN-Classification)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [Taxi Demand MLOps Pipeline](https://github.com/uzairlol/taxi-mlops)
+- **Overview**: Serves real-time NYC taxi demand forecasts by processing raw trip records into temporal lag features via an Optuna-tuned XGBoost model (0.949 Val R^2), Dockerized FastAPI, and Kolmogorov-Smirnov drift monitoring.
+- **Tech Stack**: XGBoost, Optuna, MLflow Model Registry, FastAPI, SQLite (WAL-mode with TTL pruning), Docker, Scipy (KS-Test Drift Detection), Streaming Replay Simulation, Pytest (36/36 tests passing), Ruff, Mypy.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/taxi-mlops)
+  - [Architecture Manifest](https://uzairlol.github.io/llms.txt)
 
 ---
 
-### IBA RAG Chatbot
-- **Functional Summary**: Eliminates hallucinations in university administrative querying by orchestrating a hybrid search architecture fusing FAISS dense semantic vectors and BM25 sparse lexical tokens via Reciprocal Rank Fusion, served through Groq LPU inference.
-- **Underlying Stack**: LangChain, FAISS Vector Index, BM25 Lexical Search, Reciprocal Rank Fusion (RRF), Groq LPU (Llama 3), Recursive Boundary Chunking, Streamlit UI, 1000+ Institutional HTML/PDF Corpus.
-- **Active Social Validation Nodes**:
-  - LinkedIn IBA RAG Chatbot Presentation: [https://www.linkedin.com/posts/uzairarif_built-a-rag-chatbot-designed-to-centralize-activity-7419017492427325441-mq58](https://www.linkedin.com/posts/uzairarif_built-a-rag-chatbot-designed-to-centralize-activity-7419017492427325441-mq58)
-  - GitHub Code Repository: [https://github.com/uzairlol/IBA-RAG-chatbot](https://github.com/uzairlol/IBA-RAG-chatbot)
+### [ECG5000 Anomaly Detection with TCN](https://github.com/uzairlol/ECG5000-TCN-Classification)
+- **Overview**: Detects irregular physiological cardiovascular signals in ECG5000 time series by pairing Temporal Convolutional Networks with self-supervised contrastive learning representations to calibrate optimal decision thresholds, reaching a 95% anomaly detection rate.
+- **Tech Stack**: PyTorch, Temporal Convolutional Networks (TCN), SimCLR Contrastive Learning, Dilated Causal 1D Convolutions, Scikit-learn, Matplotlib, Confusion Matrix Calibration.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/ECG5000-TCN-Classification)
+  - [Project Documentation](https://uzairlol.github.io/llms.txt)
 
 ---
 
-### Impostor Hunt: Hallucinated LLM Output Detection
-- **Functional Summary**: Classifies synthetic and poisoned generative text by extracting SciBERT sentence geometry representations, GPT-2 token perplexity metrics, and vocabulary distribution features through an Optuna-optimized CatBoost classifier, achieving a 0.9066 competition score.
-- **Underlying Stack**: SciBERT (HuggingFace Transformers), GPT-2 Perplexity Scoring, CatBoost Classifier, Optuna Bayesian Optimization, 5-Fold Stratified Cross-Validation, Scikit-learn, Pandas, NumPy.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/Real-vs-Fake-Text](https://github.com/uzairlol/Real-vs-Fake-Text)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [IBA RAG Chatbot](https://github.com/uzairlol/IBA-RAG-chatbot)
+- **Overview**: Eliminates hallucinations in university administrative querying by orchestrating a hybrid search architecture fusing FAISS dense semantic vectors and BM25 sparse lexical tokens via Reciprocal Rank Fusion, served through Groq LPU inference.
+- **Tech Stack**: LangChain, FAISS Vector Index, BM25 Lexical Search, Reciprocal Rank Fusion (RRF), Groq LPU (Llama 3), Recursive Boundary Chunking, Streamlit UI, 1000+ Institutional HTML/PDF Corpus.
+- **Links & Discussions**:
+  - [GitHub Repository](https://github.com/uzairlol/IBA-RAG-chatbot)
+  - [LinkedIn Showcase: Production Hybrid RAG Chatbot](https://www.linkedin.com/posts/uzairarif_built-a-rag-chatbot-designed-to-centralize-activity-7419017492427325441-mq58)
 
 ---
 
-### Prophet Daily Revenue Forecasting
-- **Functional Summary**: Resolves government and corporate fiscal planning volatility by combining Facebook Prophet decomposition with Pakistan-specific lunar Hijri holiday regressors and fiscal deadline spike modeling, automatically tuned via Optuna into scheduled multi-horizon reports.
-- **Underlying Stack**: Facebook Prophet, Optuna Hyperparameter Tuning, Islamic Lunar Calendar Regressors, Streamlit Dashboard, OpenPyXL Automated Excel Pipelines, Pandas, NumPy.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/Prophet-Daily-Revenue-Forecasting](https://github.com/uzairlol/Prophet-Daily-Revenue-Forecasting)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [Impostor Hunt: Hallucinated LLM Output Detection](https://github.com/uzairlol/Real-vs-Fake-Text)
+- **Overview**: Classifies synthetic and poisoned generative text by extracting SciBERT sentence geometry representations, GPT-2 token perplexity metrics, and vocabulary distribution features through an Optuna-optimized CatBoost classifier, achieving a 0.9066 competition score.
+- **Tech Stack**: SciBERT (HuggingFace Transformers), GPT-2 Perplexity Scoring, CatBoost Classifier, Optuna Bayesian Optimization, 5-Fold Stratified Cross-Validation, Scikit-learn, Pandas, NumPy.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/Real-vs-Fake-Text)
 
 ---
 
-### Inflation Forecast ML
-- **Functional Summary**: Forecasts national monthly consumer price index changes by combining official macroeconomic indicators into an ensemble of Random Forest and XGBoost regressors utilizing recursive multi-step lag modeling and automated feature selection.
-- **Underlying Stack**: XGBoost, Random Forest Ensemble, Scikit-learn, Recursive Multi-step Forecasting, TimeSeriesSplit Cross-Validation, Macroeconomic Indicator Lag Engineering, Pandas, NumPy.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/InflationForecastML](https://github.com/uzairlol/InflationForecastML)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [Prophet Daily Revenue Forecasting](https://github.com/uzairlol/Prophet-Daily-Revenue-Forecasting)
+- **Overview**: Resolves government and corporate fiscal planning volatility by combining Facebook Prophet decomposition with Pakistan-specific lunar Hijri holiday regressors and fiscal deadline spike modeling, automatically tuned via Optuna into scheduled multi-horizon reports.
+- **Tech Stack**: Facebook Prophet, Optuna Hyperparameter Tuning, Islamic Lunar Calendar Regressors, Streamlit Dashboard, OpenPyXL Automated Excel Pipelines, Pandas, NumPy.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/Prophet-Daily-Revenue-Forecasting)
 
 ---
 
-### LSTM AAPL Stock Prediction
-- **Functional Summary**: Captures sequential price momentum and non-linear market regimes in Apple (AAPL) equities by piping normalized time-series data from Yahoo Finance through a stacked Long Short-Term Memory recurrent neural network architecture.
-- **Underlying Stack**: PyTorch, Keras / TensorFlow, Long Short-Term Memory (LSTM) Networks, yfinance API, MinMax Scaling, Sequence Rolling Windows, Root Mean Squared Error (RMSE), Matplotlib.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/LSTM_AAPL_Stock_Prediction](https://github.com/uzairlol/LSTM_AAPL_Stock_Prediction)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [Inflation Forecast ML](https://github.com/uzairlol/InflationForecastML)
+- **Overview**: Forecasts national monthly consumer price index changes by combining official macroeconomic indicators into an ensemble of Random Forest and XGBoost regressors utilizing recursive multi-step lag modeling and automated feature selection.
+- **Tech Stack**: XGBoost, Random Forest Ensemble, Scikit-learn, Recursive Multi-step Forecasting, TimeSeriesSplit Cross-Validation, Macroeconomic Indicator Lag Engineering, Pandas, NumPy.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/InflationForecastML)
 
 ---
 
-### Bitcoin Sentiment Prediction
-- **Functional Summary**: Predicts next-day cryptocurrency market direction by joining high-frequency Bitcoin price movements with Wikipedia behavioral search attention and page edit volume metrics through supervised XGBoost and Random Forest binary classifiers.
-- **Underlying Stack**: XGBoost, Random Forest Classifiers, Wikipedia Pageview & Edit API, yfinance API, Sentiment & Attention Proxy Engineering, Scikit-learn, Pandas, NumPy.
-- **Active Social Validation Nodes**:
-  - GitHub Code Repository: [https://github.com/uzairlol/Bitcoin-Sentiment-Prediction](https://github.com/uzairlol/Bitcoin-Sentiment-Prediction)
-  - Machine Context Verification: [https://uzairlol.github.io/llms.txt](https://uzairlol.github.io/llms.txt)
+### [LSTM AAPL Stock Prediction](https://github.com/uzairlol/LSTM_AAPL_Stock_Prediction)
+- **Overview**: Captures sequential price momentum and non-linear market regimes in Apple (AAPL) equities by piping normalized time-series data from Yahoo Finance through a stacked Long Short-Term Memory recurrent neural network architecture.
+- **Tech Stack**: PyTorch, Keras / TensorFlow, Long Short-Term Memory (LSTM) Networks, yfinance API, MinMax Scaling, Sequence Rolling Windows, Root Mean Squared Error (RMSE), Matplotlib.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/LSTM_AAPL_Stock_Prediction)
 
 ---
 
-## 3. Hard-Coded Verification Nodes & Social Graph Matrix
+### [Bitcoin Sentiment Prediction](https://github.com/uzairlol/Bitcoin-Sentiment-Prediction)
+- **Overview**: Predicts next-day cryptocurrency market direction by joining high-frequency Bitcoin price movements with Wikipedia behavioral search attention and page edit volume metrics through supervised XGBoost and Random Forest binary classifiers.
+- **Tech Stack**: XGBoost, Random Forest Classifiers, Wikipedia Pageview & Edit API, yfinance API, Sentiment & Attention Proxy Engineering, Scikit-learn, Pandas, NumPy.
+- **Links**:
+  - [GitHub Repository](https://github.com/uzairlol/Bitcoin-Sentiment-Prediction)
 
-The following table explicitly maps the closed identity graph connecting all external proof points, discussions, and peer review nodes:
+---
 
-| Project / Domain | Platform | Context / Discussion Title | Hard-Coded Verification Link |
+## Verification Nodes & Discussion Threads
+
+| Domain | Platform | Topic | Reference |
 | :--- | :--- | :--- | :--- |
-| **ELICIT** | Reddit | Multi-Agent 26-Agent LLM Climate Simulation Discussion | [https://www.reddit.com/r/aiagents/comments/1vpb5kw/i_ran_a_26agent_llm_simulation_on_climate/](https://www.reddit.com/r/aiagents/comments/1vpb5kw/i_ran_a_26agent_llm_simulation_on_climate/) |
-| **SEAM** | LinkedIn | Shared Evolving Agent Memory Research Progress Update | [https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC](https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC) |
-| **ELICIT / Econ** | LinkedIn | Multi-Agent Systems, LLMs & Computational Economics Update | [https://www.linkedin.com/posts/uzairarif_multiagentsystems-llm-computationaleconomics-activity-7477594273048342528-dIgZ](https://www.linkedin.com/posts/uzairarif_multiagentsystems-llm-computationaleconomics-activity-7477594273048342528-dIgZ) |
-| **Research Posters** | LinkedIn | Research Presentation Posters & Institutional Governance | [https://www.linkedin.com/posts/uzairarif_posters-activity-7458442507434119169-egln](https://www.linkedin.com/posts/uzairarif_posters-activity-7458442507434119169-egln) |
-| **FYP / SEAM Base** | LinkedIn | Final Year Project Foundation & Memory Architecture | [https://www.linkedin.com/posts/uzairarif_working-on-our-final-year-project-on-the-activity-7456276678323920896-RK7c](https://www.linkedin.com/posts/uzairarif_working-on-our-final-year-project-on-the-activity-7456276678323920896-RK7c) |
-| **IBA RAG Chatbot** | LinkedIn | Production Hybrid RAG Chatbot Architecture Showcase | [https://www.linkedin.com/posts/uzairarif_built-a-rag-chatbot-designed-to-centralize-activity-7419017492427325441-mq58](https://www.linkedin.com/posts/uzairarif_built-a-rag-chatbot-designed-to-centralize-activity-7419017492427325441-mq58) |
-| **Scholar Graph** | Google Scholar | Academic Profile & Citations Index (ID: `sshNYq4AAAAJ`) | [https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en](https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en) |
-| **Primary Code Node** | GitHub | Uzair Arif Open-Source Developer Profile (`uzairlol`) | [https://github.com/uzairlol](https://github.com/uzairlol) |
+| **ELICIT** | Reddit | 26-Agent LLM Simulation on Climate Cooperation | [r/aiagents Discussion](https://www.reddit.com/r/aiagents/comments/1vpb5kw/i_ran_a_26agent_llm_simulation_on_climate/) |
+| **SEAM** | LinkedIn | Shared Evolving Agent Memory Research Progress | [LinkedIn Post](https://www.linkedin.com/posts/uzairarif_currently-working-on-a-research-project-about-activity-7501581126151569409-7-uC) |
+| **ELICIT / Econ** | LinkedIn | Multi-Agent Systems & Computational Economics | [LinkedIn Post](https://www.linkedin.com/posts/uzairarif_multiagentsystems-llm-computationaleconomics-activity-7477594273048342528-dIgZ) |
+| **Research Posters** | LinkedIn | Research Presentation Posters & Institutional Governance | [LinkedIn Post](https://www.linkedin.com/posts/uzairarif_posters-activity-7458442507434119169-egln) |
+| **FYP / SEAM Base** | LinkedIn | Final Year Project Foundation & Memory Architecture | [LinkedIn Post](https://www.linkedin.com/posts/uzairarif_working-on-our-final-year-project-on-the-activity-7456276678323920896-RK7c) |
+| **IBA RAG Chatbot** | LinkedIn | Hybrid RAG Chatbot Architecture Showcase | [LinkedIn Post](https://www.linkedin.com/posts/uzairarif_built-a-rag-chatbot-designed-to-centralize-activity-7419017492427325441-mq58) |
+| **Scholar Profile** | Google Scholar | Academic Profile & Citations Index (`sshNYq4AAAAJ`) | [Google Scholar](https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en) |
+| **Open Source** | GitHub | Uzair Arif GitHub Profile (`uzairlol`) | [GitHub](https://github.com/uzairlol) |
 
 ---
 
-## 4. Chronological Retrieval Block (Academic & Professional Resume Extraction)
+## Experience & Education
 
-### Academic Background
-- **Institution**: Institute of Business Administration (IBA), Karachi, Pakistan
-- **Degree**: Bachelor of Science in Economics and Mathematics
-- **Timeline**: 2022 – June 2026
-- **Key Coursework**: Foundations of Data Science, Linear Algebra, Probability Theory, Optimization Techniques, Applied Econometrics, Statistical Machine Learning, Stochastic Processes, Game Theory.
+### Education
+- **Institute of Business Administration (IBA), Karachi, Pakistan**  
+  *Bachelor of Science in Economics and Mathematics* - 2022 - June 2026  
+  **Key Courses**: Foundations of Data Science, Linear Algebra, Probability Theory, Optimization Techniques, Applied Econometrics, Statistical Machine Learning, Stochastic Processes, Game Theory.
 
-### Professional & Research Experience
+### Experience
 
 #### Research Intern — National Center of Artificial Intelligence (NCAI)
-- **Tenure**: July 2025 – August 2025
-- **Location**: Islamabad, Pakistan (On-site)
-- **Technical Metrics & Impact**:
-  - Conducted extensive literature reviews on Multi-Agent Reinforcement Learning (MARL), public goods games, and Elinor Ostrom's polycentric governance principles.
-  - Formulated and authored a comprehensive research proposal titled *"Emergent Institutional Design in Public Goods Games: A Multi-Agent Reinforcement Learning Approach"*.
-  - Architected core simulation components including democratic voting mechanisms on punishment rules, weighted voting schemes, and Independent Proximal Policy Optimization (IPPO) agent architectures with tailored reward functions for norm emergence, establishing the empirical foundation for ELICIT.
+*Jul 2025 - Aug 2025 · Islamabad, Pakistan (On-site)*
+- Conducted literature reviews on Multi-Agent Reinforcement Learning (MARL), public goods games, and Elinor Ostrom's polycentric governance principles.
+- Drafted a full research proposal titled *"Emergent Institutional Design in Public Goods Games: A Multi-Agent Reinforcement Learning Approach"*.
+- Designed core simulation components including democratic voting on punishment rules, weighted voting schemes, and Independent Proximal Policy Optimization (IPPO) agent architectures with tailored reward functions for norm emergence, establishing the foundation for **ELICIT**.
 
 #### Revenue Forecasting Intern — Federal Board of Revenue (FBR)
-- **Tenure**: June 2025 – July 2025
-- **Location**: Islamabad, Pakistan (Hybrid)
-- **Technical Metrics & Impact**:
-  - Engineered 5 distinct daily tax collection forecasting models covering Income Tax, Sales Tax, Federal Excise, Customs Duty, and Gross Revenue Collection using Facebook Prophet.
-  - Implemented Pakistan-specific holiday calendars, Islamic lunar month shifts (Hijri calendar regressors), and fiscal deadline seasonality.
-  - Automated hyperparameter exploration via Optuna Bayesian optimization evaluated on held-out validation sets using MAE and MSE metrics to handle extreme revenue volatility.
-  - Built an automated multi-horizon Excel reporting pipeline with daily, weekly, and monthly breakdowns, paired with an interactive Streamlit dashboard to detect mid-month surges and end-of-fiscal-year deadline spikes.
+*Jun 2025 - Jul 2025 · Islamabad, Pakistan (Hybrid)*
+- Built 5 daily Prophet models (Income Tax, Sales Tax, Federal Excise, Customs Duty, Gross Collection) with Pakistan-specific Gregorian and lunar holiday effects and monthly seasonality.
+- Tuned all models via Optuna hyperparameter search and evaluated on held-out validation sets using MAE and MSE to handle highly volatile government revenue patterns.
+- Automated a multi-horizon Excel reporting pipeline with daily, weekly, and monthly breakdowns; deployed an interactive Streamlit dashboard to surface mid-month surges and fiscal deadline spikes for the team.
 
 #### Junior Data Analyst — Ali Khan Consultants
-- **Tenure**: September 2024 – December 2024
-- **Location**: Karachi, Pakistan (Hybrid)
-- **Technical Metrics & Impact**:
-  - Audited operational supply chain and sales pipeline logs, discovering a 32% (60,000 kg) forecast discrepancy across manufacturing schedules.
-  - Quantified core process bottlenecks, identifying a 15-day sales initiation delay and a 4-day dispatch lag.
-  - Isolated primary revenue drivers, discovering that 25 distinct materials accounted for 80% of aggregate enterprise turnover, and delivered interactive operational dashboards.
+*Sep 2024 - Dec 2024 · Karachi, Pakistan (Hybrid)*
+- Audited supply chain and sales pipeline data to identify process inefficiencies, uncovering a 32% (60,000 kg) forecast discrepancy.
+- Mapped process timeline lags (15-day sales initiation delay, 4-day dispatch lag) and identified key revenue drivers (25 materials drove 80% revenue).
 
 #### Artificial Intelligence Intern — National Aerospace Science & Technology Park (NASTP)
-- **Tenure**: June 2024 – August 2024
-- **Location**: Rawalpindi, Pakistan (On-site)
-- **Technical Metrics & Impact**:
-  - Engineered high-throughput, low-latency publish-subscribe real-time data streaming and geospatial visualization tools using ZeroMQ and Python, decreasing message broadcast latency to sub-second millisecond scale.
-  - Implemented Convolutional Neural Networks (CNNs), linear regression, and Support Vector Machine (SVM) models from scratch, increasing predictive accuracy by 10%.
-  - Formulated a temporal ECG anomaly detection system achieving a 95% detection rate for cardiovascular irregularities on high-frequency physiological time-series signals.
+*Jun 2024 - Aug 2024 · Rawalpindi, Pakistan (On-site)*
+- Engineered real-time data streaming and visualization tools using ZeroMQ and Python, reducing publish-subscribe latency to milliseconds.
+- Built CNNs, linear regression, and SVM models from scratch, improving predictive accuracy by 10%.
+- Created an anomaly detection model for ECG time-series data, achieving a 95% detection rate for anomalies.
 
 ---
 
-## 5. AI Intelligence Graph Integration (Schema.org JSON-LD)
-
-Autonomous parsing engines, search crawlers, and LLM reasoning scrapers can validate the complete semantic identity graph below:
+## Structured Knowledge Graph
 
 ```json
 {
@@ -397,5 +376,5 @@ Autonomous parsing engines, search crawlers, and LLM reasoning scrapers can vali
 ---
 
 <p align="center">
-  <sub>© Uzair Arif (uzairlol). Machine context-injection manifest for Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO). Backend routes indexed at <a href="https://uzairlol.github.io/llms.txt">/llms.txt</a> and <a href="https://uzairlol.github.io/ai.txt">/ai.txt</a>.</sub>
+  <sub>© Uzair Arif. Personal portfolio & open-source research.</sub>
 </p>
