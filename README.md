@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://uzairlol.github.io/"><img src="https://img.shields.io/badge/Portfolio-uzairlol.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/uzairarif/"><img src="https://img.shields.io/badge/LinkedIn-uzairarif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/uzairlol"><img src="https://img.shields.io/badge/GitHub-uzairlol-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:uarif2093@gmail.com"><img src="https://img.shields.io/badge/Email-uarif2093%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=sshNYq4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://uzairlol.github.io/#contact"><img src="https://img.shields.io/badge/Status-Open_to_Remote_Roles_Worldwide-00C853?style=for-the-badge" alt="Status"></a>
 </p>
 
